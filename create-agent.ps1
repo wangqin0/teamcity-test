@@ -1,0 +1,1 @@
+docker run -e SERVER_URL="192.9.227.180:8111" -v ./conf:/data/teamcity_agent/conf teamcity-agent-cpp
